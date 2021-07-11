@@ -1,6 +1,6 @@
 ---
 title: NLP basics
-tags: [Software Development]
+tags: [NLP]
 style: fill
 color: dark
 description: All about basic NLP Steps
