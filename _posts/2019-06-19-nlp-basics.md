@@ -1,12 +1,12 @@
 ---
-title: NLP basics
+title: NLP Basics Steps
 tags: [NLP]
 style: fill
 color: dark
 description: All about basic NLP Steps
 ---
 
-Source: [RICO STA. CRUZ](https://ricostacruz.com/til/a-better-hello-world)
+Source: [way2learnings](https://sites.google.com/view/way2learnings/nlp)
 
 # Named Entity Extraction using NLTK
 
