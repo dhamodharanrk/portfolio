@@ -1,7 +1,7 @@
 ---
-name: Coding Like Vincent Van Gogh
-tools: [Support, Author, VVG]
+name: MrScraper
+tools: [Python,NLP,ML,ETL]
 image:
-description: Show some support by following me!
-external_url: https://github.com/YoussefRaafatNasry
+description: A next generation web scrapping framework
+external_url: https://github.com/dhamodharanrk/MrScraper
 ---
