@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A dynamic and professional Data Engineer with excellent knowledge in analyzing large datasets, building, deploying and maintaining data support tools. Expertise in various technologies used for ETL Process & Data Analitycs including updated technologies like NLP, Spacy for text Analysis. Possess excellent domain knowledge and leadership skills as leading the team on the technological front.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
