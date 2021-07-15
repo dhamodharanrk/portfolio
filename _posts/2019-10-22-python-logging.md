@@ -1,5 +1,5 @@
 ---
-title: Creating Log File Python
+title: Simple Log functionality to Python Codes
 tags: [Python]
 style: fill
 color: secondary
