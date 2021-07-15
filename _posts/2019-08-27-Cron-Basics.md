@@ -1,9 +1,9 @@
 ---
 title: Getting Started with Cron Jobs
-tags: [Python,Linux]
+tags: [Linux]
 style: border
 color: info
-description: "Getting Started with Cron Jobs"
+description: "Getting Started with Cron scheduling"
 ---
 
 
