@@ -1,6 +1,6 @@
 ---
-title: Spacy PhraseMatcher
-tags: [NLP,Spacy]
+title: Getting started with Spacy PhraseMatcher
+tags: [Python,Spacy,NLP]
 style: border
 color: secondary
 description: Extracting image address using spacy with PhraseMatcher
