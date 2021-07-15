@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Natural Language Processing (NLP)
-tags: [NLP]
+tags: [Python,NLP]
 style: border
 color: info
 description: A basic introduction covers basic steps involved in NLP
