@@ -1,9 +1,9 @@
 ---
-title: Getting Started with Cron Jobs
+title: Getting Started with Cron Scheduling
 tags: [Linux]
 style: border
 color: info
-description: "Getting Started with Cron scheduling"
+description: "Getting Started with Cron Scheduling"
 ---
 
 
