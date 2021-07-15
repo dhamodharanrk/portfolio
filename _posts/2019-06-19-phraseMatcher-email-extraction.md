@@ -1,6 +1,6 @@
 ---
-title: PhraseMatcher Email Extraction
-tags: [NLP,Spacy]
+title: How to extract email address using PhraseMatcher
+tags: [NLP,Spacy,Python]
 style: border
 color: secondary
 description: Extracting image address using spacy with PhraseMatcher
