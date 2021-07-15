@@ -1,5 +1,5 @@
 ---
-title: Pandas Basics
+title: Getting started with Pandas
 tags: [Python,Pandas]
 style: fill
 color: info
