@@ -1,9 +1,9 @@
 ---
-title: NLP Basics Steps
+title: An introduction to natural Language Processing (NLP)
 tags: [NLP]
 style: fill
 color: dark
-description: All about basic NLP Steps
+description: A basic introduction covers basic steps involved in NLP
 ---
 
 Source: [way2learnings](https://sites.google.com/view/way2learnings/nlp)
