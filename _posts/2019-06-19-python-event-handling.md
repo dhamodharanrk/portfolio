@@ -1,8 +1,8 @@
---
+---
 title: Python Event Handling
-tags: [Python]
-style: fill
-color: success
+tags: [Python,Deployment]
+style: border
+color: secondary
 description: "A simple implementation of python event handling"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Sending email from Crontab
-tags: [Python,Linux,Cron]
+tags: [Linux]
 style: fill
 color: info
 description: "Sending email from Crontab"

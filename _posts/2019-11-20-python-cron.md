@@ -1,6 +1,6 @@
 ---
 title: Managing Cron Jobs Using Python
-tags: [Python,Linux,Cron]
+tags: [Linux,Python]
 style: border
 color: secondary
 description: "Managing Cron Jobs Using Python"

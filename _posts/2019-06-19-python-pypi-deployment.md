@@ -1,5 +1,5 @@
 ---
-title: PyPI Deployment
+title: Steps to PyPI Deployment
 tags: [Python,Deployment]
 style: border
 color: secondary

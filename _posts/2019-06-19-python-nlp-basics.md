@@ -1,9 +1,9 @@
 ---
-title: NLP Basics Steps
-tags: [NLP]
-style: fill
-color: dark
-description: All about basic NLP Steps
+title: Getting Started with Natural Language Processing (NLP)
+tags: [Python,NLP]
+style: border
+color: info
+description: A basic introduction covers basic steps involved in NLP
 ---
 
 Source: [way2learnings](https://sites.google.com/view/way2learnings/nlp)

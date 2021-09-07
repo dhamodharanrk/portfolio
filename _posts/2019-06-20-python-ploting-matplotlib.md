@@ -1,6 +1,6 @@
 ---
-title: Simple Plot Using Matplotlib
-tags: [Python]
+title: Creating simple Plot Using Matplotlib
+tags: [Python,Matplotlib]
 style: border
 color: secondary
 description: "Simple implementation of plot using Matplotlib"
